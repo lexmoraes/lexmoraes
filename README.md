@@ -1,6 +1,6 @@
 ### Hello, world! I'm Alexsandro Moraes! 🐱‍💻
 ### I'm student of developer of software in technical school of FPF tech 👨‍💻
-### Starting your career from scratch
+### Starting my career from scratch
 
 [![Linkedn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandro-moraes-637a69212)
 
