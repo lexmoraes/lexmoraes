@@ -50,12 +50,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LEXMORAES&radius=16&theme=tokyo-night&area=true&order=5" height="276" alt="activity-graph graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/LEXMORAES/LEXMORAES/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social media.</h2>
 
 ###
