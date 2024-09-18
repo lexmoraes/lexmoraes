@@ -1,12 +1,10 @@
+<h2 align="left">About me.</h2>
+
 ###
 
 <div align="center">
   <img height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
-
-###
-
-<h2 align="left">About me.</h2>
 
 ###
 
@@ -66,20 +64,22 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lexmoraes/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/lexmoraes01/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="53" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="40" alt="instagram logo"  />
   </a>
   <a href="lexfisica@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="53" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="57" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/31qqp6n4cdd3c7pv26vz57ckb75u">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qqp6n4cdd3c7pv26vz57ckb75u&count=1&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qqp6n4cdd3c7pv26vz57ckb75u&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
