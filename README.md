@@ -1,3 +1,11 @@
+###
+
+<div align="center">
+  <img height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
+###
+
 <h2 align="left">About me.</h2>
 
 ###
@@ -75,11 +83,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qqp6n4cdd3c7pv26vz57ckb75u&count=1&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
-
-###
