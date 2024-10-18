@@ -40,6 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img src="https://avatars.githubusercontent.com/u/139426?s=48&v=4" height="40" alt="angular logo"  />
 </div>
 
 ###
