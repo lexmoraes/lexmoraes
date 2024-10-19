@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FTypeScript&psig=AOvVaw0gJZieBbD51vo80l4MWR8G&ust=1729384315555000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOibjuOYmYkDFQAAAAAdAAAAABAE](https://es.wikipedia.org/wiki/Archivo:Typescript_logo_2020.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png)" height="40" alt="typescript logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
