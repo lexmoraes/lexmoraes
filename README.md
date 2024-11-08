@@ -31,6 +31,8 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/139426?s=48&v=4" height="40" alt="angular logo"  />
