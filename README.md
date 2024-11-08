@@ -1,4 +1,4 @@
-<h2 align="left">About me.</h2>
+<h2 align="center">About me.</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">Skill techs</h2>
+<h2 align="center">Skill techs</h2>
 
 ###
 
