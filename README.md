@@ -50,7 +50,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="center">Stats</h2>
 
 ###
 
@@ -60,13 +60,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LEXMORAES&radius=16&theme=tokyo-night&area=true&order=5" height="276" alt="activity-graph graph"  />
 </div>
 
-<h2 align="left">Social media.</h2>
+<h2 align="center">Social media.</h2>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/lexmoraes/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="40" alt="linkedin logo"  />
   </a>
