@@ -10,7 +10,7 @@
 
 <p align="left">- Education: Technical Student in Software Development <a href="https://www.fpf-etech.com.br/" target="_blank"> (Etech-FPFtech)</a>,
   Systems Analysis and Development <a href="https://www.cruzeirodosulvirtual.com.br" target="_blank">(Cruzeiro do Sul Virtual University)</a>.
-  <br>- Experience: Production monitoring with SAP and Production Pointer.
+  <br>- Experience: Production monitoring with SAP.
   <br>- Achievements: 1st place in a technology showcase with an educational game in Python <a href="https://github.com/antonio-pss/bit-debugger" target="_blank">(Bit Debugger)</a>.
   <br>- Soft Skills: determination, teamwork, agile methodologies, and a strong interest in studying new technologies.<br>- Looking for: internship in software development.</p>
 
