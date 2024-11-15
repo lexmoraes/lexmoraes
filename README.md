@@ -73,13 +73,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="57" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31qqp6n4cdd3c7pv26vz57ckb75u">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qqp6n4cdd3c7pv26vz57ckb75u&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
