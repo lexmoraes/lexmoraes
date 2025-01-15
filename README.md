@@ -34,7 +34,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANestJS.svg&psig=AOvVaw0ApXZillHDaAG4vWnu5vdW&ust=1737056919125000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCFiLe_-IoDFQAAAAAdAAAAABAE" height="40" alt="nest logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" height="40" alt="nest logo"  />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/139426?s=48&v=4" height="40" alt="angular logo"  />
   <img width="12" />
