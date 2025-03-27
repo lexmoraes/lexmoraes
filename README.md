@@ -13,7 +13,7 @@
     - Technical Student in Software Development <a href="https://www.fpf-etech.com.br/" target="_blank">FPFtech Technological School</a>
   <br>* Achievements:
   <br>  - 1st place in the Mostratech X of FPFtech Technological School with an educational game in Python, <a href="https://github.com/antonio-pss/bit-debugger" target="_blank">Bit Debugger</a>
-  <br>  - 1sta place in the Mostratech XV of FPFtech Technological School with website <a href="https://github.com/lexmoraes/astrobit-backend" target="_blank">Astrobit</a>.
+  <br>  - 1st place in the Mostratech XV of FPFtech Technological School with website <a href="https://github.com/lexmoraes/astrobit-backend" target="_blank">Astrobit</a>.
   <br>* Soft Skills:
   <br>  - devops culture, teamwork, agile methodologies, and a strong interest in studying new technologies.<br>- Looking for: internship in software development.</p>
 
