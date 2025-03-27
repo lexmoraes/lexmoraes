@@ -8,10 +8,14 @@
 
 ###
 
-<p align="justify">- Education: Technical Student in Software Development <a href="https://www.fpf-etech.com.br/" target="_blank"> (Etech-FPFtech)</a>, and student in
-  Systems Analysis and Development <a href="https://www.cruzeirodosulvirtual.com.br" target="_blank">(Cruzeiro do Sul Virtual University)</a>.
-  <br>- Achievements: 1st place in a technology showcase with an educational game in Python <a href="https://github.com/antonio-pss/bit-debugger" target="_blank">(Bit Debugger)</a>.
-  <br>- Soft Skills: determination, teamwork, agile methodologies, and a strong interest in studying new technologies.<br>- Looking for: internship in software development.</p>
+<p align="justify">* Education:<br>
+    - Student in Systems Analysis and Development <a href="https://www.cruzeirodosulvirtual.com.br" target="_blank">Cruzeiro do Sul Virtual University</a>.<br>
+    - Technical Student in Software Development <a href="https://www.fpf-etech.com.br/" target="_blank">FPFtech Technological School</a>
+  <br>* Achievements:
+  <br>  - 1st place in the Mostratech X of FPFtech Technological School with an educational game in Python, <a href="https://github.com/antonio-pss/bit-debugger" target="_blank">Bit Debugger</a>
+  <br>  - 1sta place in the Mostratech XV of FPFtech Technological School with website <a href="https://github.com/lexmoraes/astrobit-backend" target="_blank">Astrobit</a>.
+  <br>* Soft Skills:
+  <br>  - devops culture, teamwork, agile methodologies, and a strong interest in studying new technologies.<br>- Looking for: internship in software development.</p>
 
 ###
 
@@ -25,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
