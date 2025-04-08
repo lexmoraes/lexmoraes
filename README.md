@@ -1,9 +1,9 @@
-<h2 align="center">About me.</h2>
+<h2 align="center">Hello, world! I'm Alex! 🚀.</h2>
 
 ###
 
 <div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="480" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
@@ -15,7 +15,10 @@
   <br>  - 1st place in the Mostratech X of FPFtech Technological School with an educational game in Python, <a href="https://github.com/antonio-pss/bit-debugger" target="_blank">Bit Debugger</a>
   <br>  - 1st place in the Mostratech XV of FPFtech Technological School with website <a href="https://github.com/lexmoraes/astrobit-backend" target="_blank">Astrobit</a>.
   <br>* Soft Skills:
-  <br>  - devops culture, teamwork, agile methodologies, and a strong interest in studying new technologies.<br>- Looking for: internship in software development.</p>
+  <br>  - devops culture, teamwork, agile methodologies, and a strong interest in studying new technologies.<br>- Looking for: internship in software development.
+  <br>* Professional:
+  <br>  - Software Development Intern at <a href="https://fpftech.com/" target="_blank">FPFtech</a>.
+</p>
 
 ###
 
@@ -64,9 +67,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LEXMORAES&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LEXMORAES&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LEXMORAES&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="192" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LEXMORAES&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="192" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LEXMORAES&radius=16&theme=tokyo-night&area=true&order=10" height="276" alt="activity-graph graph"  />
+  <h2> Visitas no perfil </h2>
+  <img src="https://profile-counter.glitch.me/lexmoraes/count.svg?"  />
 </div>
 
 <h2 align="center">Social media.</h2>
@@ -77,12 +82,14 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lexmoraes/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/lexmoraes01/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="lexfisica@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="57" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
