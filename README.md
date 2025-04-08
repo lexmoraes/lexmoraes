@@ -9,15 +9,15 @@
 ###
 
 <p align="justify">* Education:<br>
-    - Student in Systems Analysis and Development <a href="https://www.cruzeirodosulvirtual.com.br" target="_blank">Cruzeiro do Sul Virtual University</a>.<br>
-    - Technical Student in Software Development <a href="https://www.fpf-etech.com.br/" target="_blank">FPFtech Technological School</a>
+    - Student in Systems Analysis and Development <a href="https://www.cruzeirodosulvirtual.com.br" target="blank">Cruzeiro do Sul Virtual University</a>.<br>
+    - Technical Student in Software Development <a href="https://www.fpf-etech.com.br/" target="blank">FPFtech Technological School</a>
   <br>* Achievements:
-  <br>  - 1st place in the Mostratech X of FPFtech Technological School with an educational game in Python, <a href="https://github.com/antonio-pss/bit-debugger" target="_blank">Bit Debugger</a>
-  <br>  - 1st place in the Mostratech XV of FPFtech Technological School with website <a href="https://github.com/lexmoraes/astrobit-backend" target="_blank">Astrobit</a>.
+  <br>  - 1st place in the Mostratech X of FPFtech Technological School with an educational game in Python, <a href="https://github.com/antonio-pss/bit-debugger" target="blank">Bit Debugger</a>
+  <br>  - 1st place in the Mostratech XV of FPFtech Technological School with website <a href="https://github.com/lexmoraes/astrobit-backend" target="blank">Astrobit</a>.
   <br>* Soft Skills:
   <br>  - devops culture, teamwork, agile methodologies, and a strong interest in studying new technologies.<br>- Looking for: internship in software development.
   <br>* Professional:
-  <br>  - Software Development Intern at <a href="https://fpftech.com/" target="_blank">FPFtech</a>.
+  <br>  - Software Development Intern at <a href="https://fpftech.com/" target="blank">FPFtech</a>.
 </p>
 
 ###
@@ -81,13 +81,13 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lexmoraes/" target="_blank">
+  <a href="https://www.linkedin.com/in/lexmoraes/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/lexmoraes01/" target="_blank">
+  <a href="https://www.instagram.com/lexmoraes01/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="lexfisica@gmail.com" target="_blank">
+  <a href="lexfisica@gmail.com" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
