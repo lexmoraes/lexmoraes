@@ -2,15 +2,15 @@
 
 ###
 
-<div align="center">
+<header align="center">
   <img height="480" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
+
 
 ###
 
 <p align="justify">* Education:<br>
     - Student in Systems Analysis and Development <a href="https://www.cruzeirodosulvirtual.com.br" target="blank">Cruzeiro do Sul Virtual University</a>.<br>
-    - Technical Student in Software Development <a href="https://www.fpf-etech.com.br/" target="blank">FPFtech Technological School</a>
+    - Technical in Software Development by <a href="https://www.fpf-etech.com.br/" target="blank">FPFtech Technological School</a>
   <br>* Achievements:
   <br>  - 1st place in the Mostratech X of FPFtech Technological School with an educational game in Python, <a href="https://github.com/antonio-pss/bit-debugger" target="blank">Bit Debugger</a>
   <br>  - 1st place in the Mostratech XV of FPFtech Technological School with website <a href="https://github.com/lexmoraes/astrobit-backend" target="blank">Astrobit</a>.
@@ -19,6 +19,7 @@
   <br>* Professional:
   <br>  - Software Development Intern at <a href="https://fpftech.com/" target="blank">FPFtech</a>.
 </p>
+</header>
 
 ###
 
@@ -28,7 +29,7 @@
 
 <br clear="both">
 
-<div align="center">
+<section align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -58,7 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png" height="40" alt="docker logo"  />
-</div>
+</section>
 
 ###
 
@@ -70,8 +71,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LEXMORAES&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="192" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LEXMORAES&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="192" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LEXMORAES&radius=16&theme=tokyo-night&area=true&order=10" height="276" alt="activity-graph graph"  />
-  <h2> Visitas no perfil </h2>
-  <img src="https://profile-counter.glitch.me/lexmoraes/count.svg?"  />
 </div>
 
 <h2 align="center">Social media.</h2>
