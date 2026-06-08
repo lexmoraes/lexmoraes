@@ -16,17 +16,19 @@ Full Stack Developer • Angular • Django REST Framework • PostgreSQL
 Building scalable web applications, educational platforms and enterprise solutions.
 </p>
 
-<p align="center">
-  <a href="https://alexmoraes.dev">
-    <img src="https://img.shields.io/badge/Portfolio-alexmoraes.dev-blue?style=for-the-badge" />
+<div align="center">
+  <a href="https://linkedin.com/in/lexmoraes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
   </a>
-  <a href="https://linkedin.com/in/lexmoraes">
-    <img src="https://img.shields.io/badge/LinkedIn-Alexsandro_Moraes-blue?style=for-the-badge&logo=linkedin" />
+
+  <a href="https://alexmoraes.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="portfolio logo" />
   </a>
-  <a href="mailto:lexfisica@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+
+  <a href="mailto:lexfisica@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo" />
   </a>
-</p>
+</div>
 
 ---
 
