@@ -1,4 +1,4 @@
-<h2 align="center">Hello, world! I'm Alex! 🚀.</h2>
+# 💻 Alexsandro Moraes
 
 ###
 
@@ -8,87 +8,201 @@
 
 ###
 
-<p align="justify">* Education:<br>
-    - Student in Systems Analysis and Development <a href="https://www.cruzeirodosulvirtual.com.br" target="blank">Cruzeiro do Sul Virtual University</a>.<br>
-    - Technical in Software Development by <a href="https://www.fpf-etech.com.br/" target="blank">FPFtech Technological School</a>
-  <br>* Achievements:
-  <br>  - 1st place in the Mostratech X of FPFtech Technological School with an educational game in Python, <a href="https://github.com/antonio-pss/bit-debugger" target="blank">Bit Debugger</a>
-  <br>  - 1st place in the Mostratech XV of FPFtech Technological School with website <a href="https://github.com/lexmoraes/astrobit-backend" target="blank">Astrobit</a>.
-  <br>* Soft Skills:
-  <br>  - devops culture, teamwork, agile methodologies, and a strong interest in studying new technologies.<br>- Looking for: internship in software development.
-  <br>* Professional:
-  <br>  - Software Development Intern at <a href="https://fpftech.com/" target="blank">FPFtech</a>.
+<h3 align="center">
+Full Stack Developer • Angular • Django REST Framework • PostgreSQL
+</h3>
+
+<p align="center">
+Building scalable web applications, educational platforms and enterprise solutions.
 </p>
-</header>
 
-###
+<p align="center">
+  <a href="https://alexmoraes.dev">
+    <img src="https://img.shields.io/badge/Portfolio-alexmoraes.dev-blue?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/lexmoraes">
+    <img src="https://img.shields.io/badge/LinkedIn-Alexsandro_Moraes-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:lexfisica@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-<h2 align="center">Skill techs</h2>
+---
 
-###
+## 🚀 About Me
 
-<br clear="both">
+* 💼 Software Development Intern at FPFtech
+* 🎓 Systems Analysis and Development Student
+* 🎓 Technical Degree in Web Development
+* 🏆 Award-winning developer in educational technology projects
+* 📚 Co-author of scientific research published by UFSM
+* 🚀 Passionate about Software Engineering, Clean Architecture and Product Development
 
-<section align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" height="40" alt="nest logo"  />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/139426?s=48&v=4" height="40" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" height="40" alt="jetpack compose"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/374002/prisma.svg" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png" height="40" alt="docker logo"  />
-</section>
+---
 
-###
-
-<h2 align="center">Stats</h2>
-
-###
+## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LEXMORAES&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="192" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LEXMORAES&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="192" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LEXMORAES&radius=16&theme=tokyo-night&area=true&order=10" height="276" alt="activity-graph graph"  />
+
+<img src="https://skillicons.dev/icons?i=angular" height="55"/>
+<img src="https://skillicons.dev/icons?i=ts" height="55"/>
+<img src="https://skillicons.dev/icons?i=js" height="55"/>
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="55"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=django" height="55"/>
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+<img src="https://skillicons.dev/icons?i=go" height="55"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="55"/>
+<img src="https://skillicons.dev/icons?i=sqlite" height="55"/>
+<img src="https://skillicons.dev/icons?i=redis" height="55"/>
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=gitlab" height="55"/>
+<img src="https://skillicons.dev/icons?i=linux" height="55"/>
+
 </div>
 
-<h2 align="center">Social media.</h2>
+---
 
-###
+## 🌟 Featured Projects
 
-<br clear="both">
+### 🚀 Astrobit
+
+Educational platform focused on gamified learning.
+
+**Tech Stack**
+
+* Angular
+* Django REST Framework
+* PostgreSQL
+* Docker
+
+**Highlights**
+
+* Scientific paper published by UFSM
+* Award-winning educational project
+
+🔗 https://antonio-pss.github.io/astrobit/
+
+---
+
+### 🎓 Bit Academy
+
+Intelligent ecosystem for school management and student engagement.
+
+**Modules**
+
+* Bit School
+* Bit Class
+* Bit Notes
+
+**Tech Stack**
+
+* Angular
+* Django REST Framework
+* PostgreSQL
+* Docker
+
+---
+
+### 🕹️ Bit Debugger
+
+Educational platform game focused on programming logic.
+
+**Achievements**
+
+🥇 Gold Medal — Mostratech
+
+**Tech Stack**
+
+* Python
+* PostgreSQL
+* Tiled
+* Aseprite
+
+🔗 https://github.com/antonio-pss/bit-debugger
+
+---
+
+## 💼 Professional Experience
+
+### FPFtech
+
+Software Development Intern
+
+Working with:
+
+* Angular
+* TypeScript
+* Django REST Framework
+* PostgreSQL
+* Redis
+* Celery
+* Docker
+* OAuth
+* WebSocket
+* GitLab API
+* Agile Methodologies
+
+Projects:
+
+* Planit
+* Nexus
+
+---
+
+## 🏆 Achievements
+
+🥇 Contribution in Assistive Technology Award — FEBRACE / USP
+
+🥇 Gold Medal — Mostratech (Bit Debugger)
+
+🥇 Gold Medal — Mostratech (Astrobit)
+
+📖 Scientific Publication — UFSM
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lexmoraes/" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/lexmoraes01/" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="lexfisica@gmail.com" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LEXMORAES&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEXMORAES&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LEXMORAES&theme=tokyo-night"/>
+
 </div>
 
-###
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://alexmoraes.dev">
+<img src="https://img.shields.io/badge/Portfolio-alexmoraes.dev-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/lexmoraes">
+<img src="https://img.shields.io/badge/LinkedIn-lexmoraes-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:lexfisica@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/lexmoraes">
+<img src="https://img.shields.io/badge/GitHub-lexmoraes-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+> “Technology and education can transform lives. I build software with that purpose.”
