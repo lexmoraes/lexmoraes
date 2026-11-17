@@ -9,7 +9,7 @@
 ###
 
 <h3 align="center">
-Full Stack Developer • Angular • Django REST Framework • PostgreSQL
+Full Stack Developer • Angular • Django REST Framework • Spring Boot • PostgreSQL
 </h3>
 
 <p align="center">
@@ -34,9 +34,11 @@ Building scalable web applications, educational platforms and enterprise solutio
 
 ## 🚀 About Me
 
-* 💼 Software Development Intern at FPFtech
-* 🎓 Systems Analysis and Development Student
-* 🎓 Technical Degree in Web Development
+* 💼 IT Support & Development Intern at **ANOREG-AM**
+* 🛠️ ~1.5 years building systems in production (ERPs, agile management platform, notary portal)
+* 🤖 AI Transformation Xperience (AX Academy) — AI, Machine Learning & Data Science · FPFtech + LG Electronics
+* 🎓 Systems Analysis and Development Student (2026)
+* 🎓 Technical Degree in Web Development · Licentiate in Physics (UFAM)
 * 🏆 Award-winning developer in educational technology projects
 * 📚 Co-author of scientific research published by UFSM
 * 🚀 Passionate about Software Engineering, Clean Architecture and Product Development
@@ -56,17 +58,59 @@ Building scalable web applications, educational platforms and enterprise solutio
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
 <img src="https://skillicons.dev/icons?i=django" height="55"/>
 <img src="https://skillicons.dev/icons?i=java" height="55"/>
+<img src="https://skillicons.dev/icons?i=spring" height="55"/>
+<img src="https://skillicons.dev/icons?i=nestjs" height="55"/>
+<img src="https://skillicons.dev/icons?i=kotlin" height="55"/>
 <img src="https://skillicons.dev/icons?i=go" height="55"/>
 <img src="https://skillicons.dev/icons?i=postgres" height="55"/>
 <img src="https://skillicons.dev/icons?i=sqlite" height="55"/>
 <img src="https://skillicons.dev/icons?i=redis" height="55"/>
+<img src="https://skillicons.dev/icons?i=sklearn" height="55"/>
 <img src="https://skillicons.dev/icons?i=docker" height="55"/>
+<img src="https://skillicons.dev/icons?i=nginx" height="55"/>
+<img src="https://skillicons.dev/icons?i=aws" height="55"/>
 <img src="https://skillicons.dev/icons?i=git" height="55"/>
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 <img src="https://skillicons.dev/icons?i=gitlab" height="55"/>
 <img src="https://skillicons.dev/icons?i=linux" height="55"/>
 
 </div>
+
+---
+
+## 🔭 Currently Working On
+
+### 🦴 Skeleton
+
+Open-source full-stack starter, extracted from a real production project — clone it, rename it, build your product.
+
+* Django + DRF · Django Channels (WebSocket) · Celery + Redis · SeaweedFS (S3)
+* Angular 22 · reusable base services/components · i18n (Transloco + gettext) · dark theme
+* JWT auth with refresh rotation, production Docker stack behind Nginx, CI with tests + linters
+
+🔗 https://github.com/lexmoraes/skeleton
+
+### 🌐 Portfolio
+
+Personal portfolio focused on performance, built with Angular Signals, TailwindCSS and GSAP.
+
+🔗 https://alexmoraes.dev · https://github.com/lexmoraes/portfolio
+
+### 📊 Data Science
+
+Notebooks and exercises from the AX Academy program (AI, Machine Learning and Data Science).
+
+🔗 https://github.com/lexmoraes/data-science
+
+### 🏛️ Enterprise Systems — ANOREG-AM
+
+Maintaining and evolving a digital notary seal system in production.
+
+* Java microservices with Spring Boot, Maven, Eureka, Liquibase and PostgreSQL
+* OAuth2 / Keycloak authentication
+* AngularJS + TypeScript frontend, reporting services, IT support and technical documentation
+
+*(private / corporate repositories)*
 
 ---
 
@@ -88,7 +132,7 @@ Educational platform focused on gamified learning.
 * Scientific paper published by UFSM
 * Award-winning educational project
 
-🔗 https://antonio-pss.github.io/astrobit/
+🔗 https://antonio-pss.github.io/astrobit/ · API: https://github.com/lexmoraes/astrobit-backend
 
 ---
 
@@ -108,6 +152,8 @@ Intelligent ecosystem for school management and student engagement.
 * Django REST Framework
 * PostgreSQL
 * Docker
+
+🔗 https://github.com/lexmoraes/bit-academy-back
 
 ---
 
@@ -130,30 +176,62 @@ Educational platform game focused on programming logic.
 
 ---
 
+## 📂 Repositories
+
+| Area | Repository | Stack | Description |
+|---|---|---|---|
+| Web Full Stack | [skeleton](https://github.com/lexmoraes/skeleton) | Django · Angular · Docker | Production-ready full-stack starter |
+| Web Full Stack | [portfolio](https://github.com/lexmoraes/portfolio) | Angular · Tailwind · GSAP | Personal portfolio |
+| Backend / APIs | [astrobit-backend](https://github.com/lexmoraes/astrobit-backend) | Django REST · JWT | API of the Astrobit educational platform |
+| Backend / APIs | [bit-academy-back](https://github.com/lexmoraes/bit-academy-back) | Django REST · PostgreSQL | Modular school management platform |
+| Backend / APIs | [forum-api](https://github.com/lexmoraes/forum-api) | NestJS · TypeScript | Forum REST API |
+| Data Science | [data-science](https://github.com/lexmoraes/data-science) | Python · Jupyter | Data science notebooks |
+| Mobile | [kotlin](https://github.com/lexmoraes/kotlin) | Kotlin · Jetpack Compose | Kotlin and Compose studies |
+| Mobile | [to-do-jetpack-compose](https://github.com/lexmoraes/to-do-jetpack-compose) | Kotlin · Jetpack Compose | Android to-do app |
+| Mobile | [calculadora-jetpack-compose](https://github.com/lexmoraes/calculadora-jetpack-compose) | Kotlin · Jetpack Compose | Android calculator |
+
+---
+
 ## 💼 Professional Experience
 
-### FPFtech
+### ANOREG-AM · *07/2026 – Present*
 
-Software Development Intern
+IT Support & Development Intern
+
+* Digital notary seal system in production — Java microservices (Spring Boot, Eureka, Liquibase, PostgreSQL), OAuth2/Keycloak, AngularJS + TypeScript
+* Features and fixes for user and registry office management, reporting services
+* Build/startup troubleshooting of microservices and database migrations
+* IT support (servers on VMs, network, access), technical documentation and process automation
+
+### FPFtech · *04/2025 – 06/2026*
+
+Full Stack Developer (Internship)
 
 Working with:
 
 * Angular
 * TypeScript
 * Django REST Framework
-* PostgreSQL
+* PostgreSQL / SQL Server
 * Redis
 * Celery
 * Docker
 * OAuth
 * WebSocket
+* AI/LLM integration (OpenAI API)
+* MinIO / Seaweedfs / Amazon S3
 * GitLab API
 * Agile Methodologies
 
 Projects:
 
-* Planit
-* Nexus
+* **Planit** — agile team & project management platform, GitLab API integration
+* **Bit ERP** — modular ERP (HR, operations, finance) with AI-powered document analysis
+* **Nexus** — government planning ERP (financial management and auditing)
+
+### Digitron da Amazônia · *10/2022 – 12/2024*
+
+Production Coordinator · Test / Quality Control Technician — SAP, inventory analysis, root cause analysis.
 
 ---
 
